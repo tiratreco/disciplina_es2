@@ -1,3 +1,4 @@
 Gustavo Andre de Sousa Paulino
 Engenharia de Software II
-
+Embora eu já usasse o GitHub, só conhecia o básico. A aula ajudou a solucionar muitas dúvidas
+do funcionamento do git.
